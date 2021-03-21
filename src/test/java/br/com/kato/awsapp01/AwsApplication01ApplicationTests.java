@@ -1,4 +1,4 @@
-package br.com.kato.awsApplication01;
+package br.com.kato.awsapp01;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
