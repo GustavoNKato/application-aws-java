@@ -1,4 +1,4 @@
-package br.com.kato.awsApplication01;
+package br.com.kato.awsapp01;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
